@@ -1,0 +1,2 @@
+rootProject.name = "klab5"
+include ':app'
